@@ -1,7 +1,8 @@
 import React from 'react'
 import './App.css'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import NavBar from './components/NavBar'
+import Brawlers from './components/Brawlers'
 
 function App() {
 
@@ -10,8 +11,7 @@ function App() {
       <NavBar />
       <Routes>
         <Route path="/" element={<div></div>} />
-        <Route path="/brawlers" element={<div>Brawlers</div>} />
-        <Route path="/leaderboard" element={<div>LeaderBoard</div>} />
+        <Route path="/brawlers" element={<Brawlers />} />
       </Routes>
     </Router>
   )
