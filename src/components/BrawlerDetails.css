@@ -1,0 +1,25 @@
+.brawler-details {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.brawler-details img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin: 20px 0;
+}
+
+.star-powers, .gadgets {
+  margin: 30px 0;
+}
+
+.ability {
+  background: #f5f5f5;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border-left: 4px solid #007bff;
+}
