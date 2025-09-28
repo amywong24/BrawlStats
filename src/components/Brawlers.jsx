@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import data from "../data/brawler.json";
+import './Brawlers.css';
 
 const Brawlers = () => {
     return (
@@ -11,6 +12,11 @@ const Brawlers = () => {
                 {data.items.map((brawler) => (
                     <div key={brawler.id} className="brawler-card">
                         <Link to={`/brawler/${brawler.id}`} className="brawler-link">
+                            <img
+                                src={`/brawler/${brawler.id}.png`}
+                                alt={brawler.name}
+                                className="brawler-image"
+                            />
                             <h3>{brawler.name}</h3>
                         </Link>
                     </div>
