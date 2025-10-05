@@ -45,8 +45,12 @@ export const starPowerDescriptions = {
     23000140: "Meteor Rush - El Primo gains a 25% speed boost for 4.0 seconds after using his Super.",
 
     // Mortis
+    23000087: "Creepy Harvest - Mortis reaps the life essence of a Brawler he defeats, restoring 20% of his max health.",
+    23000154: "Coiled Snake - Mortis gains his longer dash 2 seconds faster.",
 
     // Crow
+    23000088: "Extra Toxic - Crow's poison saps the strength of enemies, who deal 15% less damage while poisoned.",
+    23000143: "Carrion Crow - Crow deals +40% damage with his attack and Super to targets with 50% or less health.",
 
     // Poco
 
@@ -262,8 +266,12 @@ export const gadgetDescriptions = {
     23000292: "Asteroid Belt - El Primo summons a small meteor to strike the nearest enemy. It deals 3040 damage and destroys walls.",
 
     // Mortis
+    23000265: "Combo Spinner - Mortis spins his shovel, hitting all enemies around himself for 2000 damage.",
+    23000290: "Survival Shovel - Mortis reloads faster for 4.0 seconds.",
 
     // Crow
+    23000243: "Defense Booster - Crow gets a shield for 40% of incoming damage for 3.0 seconds.",
+    23000286: "Slowing Toxin - All currently poisoned enemies are slowed for 2 seconds.",
 
     // Poco
 
