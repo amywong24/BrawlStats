@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Lilita One';
+  src: url('/fonts/lilitaone-regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* If there are multiple font weights/styles */
+@font-face {
+  font-family: 'BrawlStars';
+  src: url('/fonts/nougat-extrablack.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}

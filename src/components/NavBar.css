@@ -64,6 +64,7 @@
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
   margin-left: 1rem !important;
   border: 2px solid transparent;
+  font-family: "BrawlStars", sans-serif !important;
 }
 
 .download-btn:hover {
@@ -84,6 +85,7 @@
   margin-right: 2rem;
   border-radius: 8px;
   padding: 1rem 1.5rem !important;
+  font-family: "BrawlStars", sans-serif;
 }
 
 #header:hover {
