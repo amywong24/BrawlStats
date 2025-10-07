@@ -105,28 +105,52 @@ export const starPowerDescriptions = {
     23000145: "Protective Pirouette - During Carl's Super, all damage he receives is reduced by 35%.",
 
     // Bibi
+    23000134: "Home Run - Bibi's movement speed is increased by 12% when her Home Run bar is fully charged.",
+    23000146: "Batting Stance - When Bibi's Homerun bar is fully charged, she shields herself from all damage by 20%.",
 
     // 8-Bit
+    23000168: "Boosted Booster - Increases the Damage Booster's range by 50% and boosts damage by an additional 15%.",
+    23000181: "Plugged In - When 8-Bit is near his Damage Booster, he will plug in and have increased movement speed.",
 
     // Sandy
+    23000186: "Rude Sands - Sandstorm now also damages enemies for 216 damage per second.",
+    23000187: "Healing Winds - Sandstorm now also heals friendly Brawlers for 380 health per second.",
 
     // Bea
+    23000192: "Insta Beaload - Instantly Supercharge Bea's Big Sting one time if she misses a Supercharged shot.",
+    23000193: "Honeycomb - Bea receives a 30% shield while Big Sting is Supercharged.",
 
     // Emz
+    23000198: "Bad Karma - Enemies that stay within the cloud of Emz's toxic hair spray suffer increasing damage, 25% per hit.",
+    23000199: "Hype - Emz recovers 576 health per second for each enemy Brawler inside her Super's area of effect.",
 
     // Mr. P
+    23000204: "Handle With Care - Every 4 seconds, the explosion damage of Mr. P's next overstuffed suitcase is increased by 40%.",
+    23000205: "Revolving Door - All robo-porters from the home base now have 20% more health and 30% higher damage.",
 
     // Max
+    23000210: "Super Charged - Max now charges her Super while moving.",
+    23000211: "Run n' Gun - Max reloads faster while moving.",
 
     // Jacky
+    23000222: "Counter Crush - When receiving damage, Jacky returns the favor by converting 30% of the damage into a Groundbreaker counterattack.",
+    23000223: "Hardy Hard Hat - Jacky's Hard Hat protects her by reducing any damage she takes by 20%.",
 
     // Gale
+    23000228: "Blustery Blow - Gale's Super now stuns enemies for 1.25 seconds if they are pushed against obstacles.",
+    23000229: "Freezing Snow - Gale's snow balls now also slow down opponents for 0.5 seconds.",
 
     // Nani
+    23000234: "Autofocus - Peep deals up to 1850 extra damage based on his travel distance.",
+    23000235: "Tempered Steel - Nani takes 80% less damage while her Super is active.",
 
     // Sprout
+    23000240: "Overgrowth - Every 5 seconds, the next Seed Bomb will explode with a larger explosion radius.",
+    23000241: "Photosynthesis - Sprout activates a shield, partially protecting itself from all attacks while inside a bush.",
 
     // Surge
+    23000283: "To the Max! - Surge's main attack now splits when hitting walls.",
+    23000284: "Serve Ice Cold - Surge keeps his STAGE 1 Super upgrade for the full match duration.",
 
     // Colette
 
@@ -322,7 +346,7 @@ export const gadgetDescriptions = {
     // Darryl
     23000260: "Recoiling Rotator - Darryl spins around and sprays a barrage of shots in all directions. Each shot deals 600 damage and recharges his Super by 25% if it hits enemies!",
     23000313: "Tar Barrel - Darryl creates a slowing area around himself for 5.0 seconds.",
-    
+
     // Penny
     23000248: "Salty Barrel - Penny drops a barrel of salt that blocks enemy projectiles. She can also use it to burst her own gold pouches.",
     23000287: "Trusty Spyglass - Penny's cannon blasts at every visible enemy position within range.",
@@ -352,28 +376,52 @@ export const gadgetDescriptions = {
     23000317: "Flying Hook - Carl's next attack makes his pickaxe pull him to the farthest point of the attack.",
 
     // Bibi
+    23000275: "Vitamin Booster - Bibi heals 960 health per second for 4.0 seconds.",
+    23000458: "Extra Sticky - Bibi's next Spitball slows down enemies on hit for 3 seconds!",
 
     // 8-Bit
+    23000259: "Cheat Cartridge - 8-Bit instantly teleports to his Damage Booster.",
+    23000318: "Extra Credit - 8-Bit's next attack has the number of projectiles increased to 18.",
 
     // Sandy
+    23000270: "Sleep Stimulator - Sandy falls asleep for 1.5 seconds and his health is fully restored.",
+    23000405: "Sweet Dreams - Sandy's next attack lulls opponents to sleep for 1 second. They will however wake up from any damage.",
 
     // Bea
+    23000271: "Honey Molasses - Bea drops a beehive with a splash of sticky honey around it. The honey slows down enemies that step in it",
+    23000312: "Rattled Hive - Bea unleashes 4 angry bees that circle away from her, dealing more damage the further they go (up to 1200 damage).",
 
     // Emz
+    23000274: "Friendzoner - Emz pushes back all enemies around her while also dealing 676 damage.",
+    23000459: "Acid Spray - Emz's next blast of hair spray can pass through walls, but deals 10% less damage.",
 
     // Mr. P
+    23000269: "Service Bell - Mr. P buffs his current porter by increasing its damage by 228 and health by 1360.",
+    23000349: "Porter Reinforcements - The next attack will spawn a weak porter where the attack lands.",
 
     // Max
+    23000254: "Phase Shifter - Max dashes forward, and becomes immune to all damage from enemies while dashing.",
+    23000311: "Sneaky Sneakers - Max blinks back to a place of her choosing after 3.0 seconds delay, recovering any damage she received in the meantime.",
 
     // Jacky
+    23000256: "Pneumatic Booster - Jacky gets a burst of energy and moves 25% faster for 4.0 seconds.",
+    23000486: "Rebuild - Jacky rebuilds the environment in a small radius around her.",
 
     // Gale
+    23000277: "Spring Ejector - Gale drops a bounce pad underfoot, launching friend and foe alike into the air.",
+    23000407: "Twister - Gale uses his leaf blower to create a local tornado, which will push away any opponents that try to pass through.",
 
     // Nani
+    23000278: "Warpin' Time - Nani teleports to Peep's last known location and ends her Super.",
+    23000353: "Return to Sender - For the next 2 seconds, the first time Nani takes damage from an enemy, 80% of the damage is returned to the enemy.",
 
     // Sprout
+    23000244: "Garden Mulcher - Sprout consumes a bush to restore 1800 health.",
+    23000315: "Transplant - Sprout destroys its current Hedge, but will instantly have its Super fully charged again.",
 
     // Surge
+    23000285: "Power Surge - Surge overloads his circuits and increases his upgrade stage by 1 for 10 seconds.",
+    23000485: "Power Shield - Within the next 2 seconds, Surge consumes 50% of the damage of the next incoming hit and uses the energy to reload 2 ammo.",
 
     // Colette
 
