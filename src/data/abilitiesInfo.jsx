@@ -153,20 +153,36 @@ export const starPowerDescriptions = {
     23000284: "Serve Ice Cold - Surge keeps his STAGE 1 Super upgrade for the full match duration.",
 
     // Colette
+    23000300: "Push It - All enemy Brawlers hit by Colette's charge are carried to the farthest point of the attack!",
+    23000301: "Mass Tax - Colette's Super gives her a 20% shield for 5.0 seconds. Every enemy Brawler hit by it will add 10% more protection.",
 
     // Amber
+    23000307: "Wild Flames - Amber can have two fuel puddles on the ground simultaneously and she will recharge her Super automatically when standing near one.",
+    23000308: "Scorchin' Siphon - While being near a puddle of fire fluid, Amber uses it to reload her firebreathing 50% faster.",
 
     // Lou
+    23000324: "Supercool - Opponents standing on Lou's Super area get frozen 33% faster.",
+    23000325: "Hypothermia - Opponents lose up to 50% of their damage based on how frozen they are from Lou's attacks.",
 
     // Byron
+    23000331: "Malaise - Byron's Super will also cause opponents to receive 75% less healing from any source for 9 seconds.",
+    23000332: "Injection - Every 3.5 seconds the next basic attack will pierce through targets.",
 
     // Edgar
+    23000338: "Hard Landing - Edgar's Super will also deal 1350 damage to nearby enemies upon landing.",
+    23000339: "Fisticuffs - Edgar receives 25% more healing from the damage he deals.",
 
     // Ruffs
+    23000345: "Air Superiority - Supply Drop now includes a bomb that adds 120% more damage to the drop and also allows it to destroy walls.",
+    23000346: "Field Promotion - Friendly Brawlers have their maximum health increased by 30 every second they are in range of this ability while it's active.",
 
     // Stu
+    23000362: "Zero Drag - Stu's Nitro Boost Super dash distance increases by 71%.",
+    23000363: "Gaso-Heal - Using his Nitro Boost Super restores 512 of Stu's health.",
 
     // Belle
+    23000369: "Positive Feedback - Belle gains a 20% shield whenever her Electro-Bolts hit a target.",
+    23000370: "Grounded - Getting marked by Belle's Super prevents the target from reloading for 5 seconds.",
 
     // Squeak
 
@@ -424,20 +440,36 @@ export const gadgetDescriptions = {
     23000485: "Power Shield - Within the next 2 seconds, Surge consumes 50% of the damage of the next incoming hit and uses the energy to reload 2 ammo.",
 
     // Colette
+    23000302: "Na-ah! - Colette's next shot deals extra 1500 damage.",
+    23000457: "Gotcha! - On activation, Colette's shots heal herself for 5 seconds for 80% of the damage dealt.",
 
     // Amber
+    23000309: "Fire Starters - Amber runs fast for 3.0 seconds while spilling her fire fluid, which she can then ignite.",
+    23000488: "Dancing Flames - Amber creates 3 orbiting flames around her for 5 seconds, dealing 1890 damage on hit.",
 
     // Lou
+    23000326: "Ice Block - Lou shields himself with ice, becoming invulnerable for 1 seconds.",
+    23000400: "Cryo Syrup - Instantly adds 50% freeze meter to opponents inside Lou's Super.",
 
     // Byron
+    23000333: "Shot In The Arm - Byron uses one of his shots to heal himself 1200 per second for 3 seconds.",
+    23000461: "Booster Shots - Byron's next attack shoots 3 darts instead of one, each dealing 20% less damage and 40% less healing.",
 
     // Edgar
+    23000340: "Let's Fly - Edgar's Super charges faster, 525% for 4 seconds.",
+    23000403: "Hardcore - Edgar gets a shield that protects him from the next 3300 damage. The shield gets weaker over time.",
 
     // Ruffs
+    23000347: "Take Cover - Ruffs throws down 3 sandbags as cover. Each one has 35% of Ruffs' max health.",
+    23000402: "Air Support - Ruffs calls a barrage around the nearest opponent, dealing 1200 damage with each hit.",
 
     // Stu
+    23000364: "Speed Zone - Stu drops a booster that makes himself, his teammates, and other allies move faster while inside of it's area of effect.",
+    23000401: "Breakthrough - Stu's next Super can bash through obstacles, making debris fly forward. Each piece of debris deals 216 damage to any opponent it hits.",
 
     // Belle
+    23000371: "Nest Egg - Belle places a trap on the ground that will explode when triggered by an opponent. The trap deals 624 damage, and slows down anyone within its blast radius for 3 seconds.",
+    23000463: "Reverse Polarity - Belle's next Electro-Bolt bounces from walls.",
 
     // Squeak
 
