@@ -185,34 +185,64 @@ export const starPowerDescriptions = {
     23000370: "Grounded - Getting marked by Belle's Super prevents the target from reloading for 5 seconds.",
 
     // Squeak
+    23000376: "Chain Reaction - Each opponent within the area of a Sticky Blomb's explosion increases the Blomb's damage by 15%.",
+    23000377: "Super Sticky - Secondary Sticky Blombs from Squeak's Super also slow down opponents for 4 seconds.",
 
     // Grom
+    23000383: "Foot Patrol - When Grom's Super is fully charged, he gains +15% faster movement speed!",
+    23000384: "X-Factor - The split from Grom's main attack deals up to 30% extra damage at max distance.",
 
     // Buzz
+    23000390: "Tougher Torpedo - The minimum duration of Buzz's Super stun is increased by 0.5 seconds.",
+    23000391: "Eyes Sharp - Buzz's Super charging area is increased by 33%.",
 
     // Griff
+    23000397: "Keep the Change - Furious Griff tosses coins faster, reducing the time for a full salvo by 25%.",
+    23000398: "Business Resilience - Every 2 seconds, Griff regains up to 15% of his missing health.",
 
     // Ash
+    23000414: "First Bash - When hitting an opponent with his attack charges full, Ash gets even more angry. His Rage goes up by 200%.",
+    23000415: "Mad As Heck - Ash progressively gains up to 40% faster reload speed, equal to how enraged he's become.",
 
     // Meg
+    23000421: "Force Field - Meg is protected by a 25% shield for 10 seconds when her Mecha is destroyed.",
+    23000422: "Heavy Metal - Upon expiring, the Mecha suit explodes dealing 2400 damage to nearby opponents and pushing them away.",
 
     // Lola
+    23000431: "Improvise - When down to her last round, Lola deals an extra 30% damage.",
+    23000432: "Sealed With a Kiss - Projectiles from Lola's Ego heal allies that are caught in its path by 224 health.",
 
     // Fang
+    23000438: "Fresh Kicks - When Fang defeats an enemy with his Super, it's recharged instantly, allowing him to use his Super again!",
+    23000439: "Divine Soles - Reduce 688 damage from incoming hits once every 3 seconds. Maximum reduction is 90% of the incoming damage.",
 
     // Eve
+    23000452: "Unnatural Order - Reverses the order of the eggs shot by her egg shooter.",
+    23000453: "Happy Surprise - Every 5 seconds, the largest egg hitting an enemy from her Egg Shooter will spawn a hatchling.",
 
     // Janet
+    23000470: "Stage View - When in the air with her jetpack, Janet reveals a large area of bushes around herself.",
+    23000471: "Vocal Warm Up - Janet's attack focuses 30% faster.",
 
     // Bonnie
+    23000478: "Black Powder - The range of Bonnie's Star Launcher is increased by 36%.",
+    23000479: "Wisdom Tooth - Loose Tooth shatters on hit, dealing 25% extra damage to nearby enemies.",
 
     // Otis
+    23000495: "Stencil Glue - Cil mightly squeezes the enemy with all his might. Preventing them from attacking for 33% longer.",
+    23000496: "Ink Refills - Otis now shoots 33% more ink drops.",
 
     // Sam
+    23000503: "Hearty Recovery - Upon recalling his Knuckle Busters, Sam instantly recovers 20% of his missing health.",
+    23000504: "Remote Recharge - While the Knuckle Busters are on the ground and near enemies, they will charge up Sam's Super.",
 
     // Gus
+    23000511: "Health Bonanza - Health gained from spirits are increased by 100%.",
+    23000512: "Spirit Animal - Spooky increases the damage of a teammate by 25% for 5 seconds.",
 
     // Buster
+    23000519: "Blockbuster - Buster's Lens Flare deals 15% more damage for each ally in his Super charge area.",
+    23000520: "Kevlar Vest - While Montage is active Buster takes 10% less damage and is immune to knockbacks, slows and stuns.",
 
     // Chester
 
@@ -279,10 +309,16 @@ export const starPowerDescriptions = {
     // Alli
 
     // Trunk
+    23000998: "New Insect Overlords - Ants also reduce the damage of enemies by 15%.",
+    23000999: "Colony Scouts - Ants reveal hidden enemies.",
 
     // Mina
+    23001039: "Zum Zum Zum - Mina's combo Attack 3 also heals for 50% of damage done.",
+    23001040: "Blown Away - Mina's Super also roots enemies on the spot.",
 
     // Ziggy
+    23001047: "Thunderstruck - Brawlers damaged by Ziggy's Super are slowed by 20% for 1 sec.",
+    23001048: "The Great Ziggini - Hitting with a lightning strike increases the damage of the next main attack by 30%.",
 };
 
 // Gadget descriptions
@@ -472,34 +508,64 @@ export const gadgetDescriptions = {
     23000463: "Reverse Polarity - Belle's next Electro-Bolt bounces from walls.",
 
     // Squeak
+    23000378: "Windup - Squeak's next Sticky Blomb deals 50% more damage and has 100% longer range.",
+    23000462: "Residue - Squeak's next Sticky Blomb leaves a residue area behind after exploding, slowing down enemies and giving allies sight into bushes for 6 seconds.",
 
     // Grom
+    23000385: "Watchtower - Grom ejects a Watchtower from his Grom Bomb that gives all allies sight into bushes over a large area. The watchtower slowly loses health over time.",
+    23000460: "Radio Check - Grom's next attack fires 3 Buds in rapid succession.",
 
     // Buzz
+    23000392: "Reserve Buoy - Instantly fills the Super meter, but the next Torpedo Throw doesn't stun opponents.",
+    23000490: "X-Ray-Shades - Buzz can see into all bushes in his Super charging area for 12 seconds.",
 
     // Griff
+    23000399: "Piggy Bank - Griff drops a firecracker-filled piggy bank that, after a short delay, explodes destroying obstacles and dealing 1400 damage to opponents within range.",
+    23000487: "Coin Shower - Griff's next Coin Toss shoots 33% more coins.",
 
     // Ash
+    23000416: "Chill Pill - Though furious, Ash has to collect himself. A full rage meter will recover 3240 health when this Gadget is popped - less Rage, less recovery.",
+    23000465: "Rotten Banana - Ash loses 10% health and instantly gains 40% rage.",
 
     // Meg
+    23000423: "Jolting Volts - Heal the Mecha by 490 health per second for 5 seconds.",
+    23000489: "Toolbox - Meg drops her toolbox, which increases the reload speed for nearby allies by 35% until it gets destroyed.",
 
     // Lola
+    23000433: "Freeze Frame - Lola's Ego stops moving to strike a pose! Gaining a 50% shield for 4 seconds.",
+    23000456: "Stunt Double - Lola and her Ego switch locations and recover 1520 health.",
 
     // Fang
+    23000440: "Corn-Fu - Fang tosses a handful of corn kernels into the air, making it rain popcorn! Each kernel pop deals 1088 damage.",
+    23000464: "Roundhouse Kick - Fang spins and hits all enemies around him, stunning them for 0.5 seconds.",
 
     // Eve
+    23000454: "Gotta Go! - Eve jumps away and leaves behind a hatchling.",
+    23000455: "Motherly Love - Hatchlings spawned from an active big egg will now heal allies over time instead of dealing damage.",
 
     // Janet
+    23000472: "Drop The Bass - Janet deploys a speaker that deals 200 damage per second to all enemies in the area until it gets destroyed.",
+    23000473: "Backstage Pass - Janet's next High Note pushes her back, even over walls. The more focused her attack is, the further she'll be pushed back.",
 
     // Bonnie
+    23000480: "Sugar Rush - Clyde's movement and reload speed are increased by 30% for 5 seconds.",
+    23000481: "Crash Test - Bonnie dashes forward, knocking back enemies and dealing 2320 damage on hit.",
 
     // Otis
+    23000497: "Dormant Star - The next starfish will stay on the ground if an enemy is not hit, laying dormant until an enemy gets close.",
+    23000498: "Phat Splatter - Otis's next attack shoots a giant ink ball that leaves a puddle, dealing 1250 damage over time for 3.8 seconds.",
 
     // Sam
+    23000505: "Magnetic Field - While the Knuckle Busters are on the ground, Sam can activate them to pull in nearby enemies.",
+    23000506: "Pulse Repellent - Upon landing on the ground, Sam's next deployed Knuckle Busters releases an electric pulse that knocks back enemies.",
 
     // Gus
+    23000513: "Kooky Popper - Explode all uncollected spirits, dealing 2160 damage to nearby enemies.",
+    23000514: "Soul Switcher - Gus loses 5% health but gains 100% spirit instantly.",
 
     // Buster
+    23000521: "Utility Belt - Buster heals himself and all nearby allies for 864 health for each ally in his Super charge area.",
+    23000522: "Slo-Mo Replay - Buster's next Lens Flare pulls enemies towards him.",
 
     // Chester
 
@@ -566,10 +632,16 @@ export const gadgetDescriptions = {
     // Alli
 
     // Trunk
+    23001000: "For the Queen! - Trunk instantly spreads ants in a large area.",
+    23001001: "Worker Ants - Trunk heals from the first source of damage taken for the next 2 secs.",
 
     // Mina
+    23001041: "Windmill - Creates a wall of wind that blocks projectiles for 3 secs.",
+    23001042: "Capo-What? - Mina's next Super recharges instantly if it hits.",
 
     // Ziggy
+    23001049: "Electric Shuffle - Ziggy hits the nearest enemy with lightning strikes every second for 5 sec. These attacks cost no ammo.",
+    23001050: "Now You See Me... - The next lightning strike also teleports Ziggy to the same location.",
 };
 
 // Helper function to get description with fallback
