@@ -245,10 +245,16 @@ export const starPowerDescriptions = {
     23000520: "Kevlar Vest - While Montage is active Buster takes 10% less damage and is immune to knockbacks, slows and stuns.",
 
     // Chester
+    23000527: "Single Bell 'O' Mania - The first bell of Chester's attack sequence does 150% damage.",
+    23000528: "Sneak Peek - Chester will always know what his next Super will be.",
 
     // Gray
+    23000535: "Fake Injury - When Gray has full health, the next damage taken is reduced by 50%.",
+    23000536: "New Perspective - When Gray or his Allies use Doors, they recover 20% of their max hit points.",
 
     // Mandy
+    23000543: "In My Sights - Mandy shoots her candies with 15% more speed while Focused.",
+    23000544: "Hard Candy - Mandy receives 40% shield while Focused.",
 
     // R-T
 
@@ -568,10 +574,16 @@ export const gadgetDescriptions = {
     23000522: "Slo-Mo Replay - Buster's next Lens Flare pulls enemies towards him.",
 
     // Chester
+    23000529: "Spicy Dice - Chester gets a new random Super that is different from his current one.",
+    23000530: "Candy Beans - Chester eats a mystery flavored candy bean from his cap, gaining a random buff for 5 seconds.",
 
     // Gray
+    23000537: "Walking Cane - Gray's next hit from Finger Pistol shoots a walking cane which pulls in enemies back by a bit.",
+    23000538: "Grand Piano - Gray's next hit from Finger Pistol will also leave a target on the ground where a piano will land and hurt enemies. It would be too bad if someone got hurt, right?",
 
     // Mandy
+    23000545: "Caramelize - Mandy's next candy from her Candy Dispenser slows down enemies on hit for 2.5 seconds.",
+    23000546: "Cookie Crumbs - Mandy's next candy from her Candy Dispenser pierces enemies and the environment.",
 
     // R-T
 
