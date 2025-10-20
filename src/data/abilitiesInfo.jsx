@@ -257,36 +257,68 @@ export const starPowerDescriptions = {
     23000544: "Hard Candy - Mandy receives 40% shield while Focused.",
 
     // R-T
+    23000553: "Quick Maths - Marks created last 3 seconds longer.",
+    23000554: "Recording - R-T and his legs take 20% less damage when split.",
 
     // Willow
+    23000561: "Love Is Blind - Lantern's Curse also reduces reload speed of affected Brawlers by 30% for 3 seconds.",
+    23000562: "Obsession - Hexed enemies gain 33% movement speed while mind controlled.",
 
     // Maisie
+    23000569: "Pinpoint Precision - Pressure rocket deals 20% more damage at max distance.",
+    23000570: "Tremors - Enemies hit by Shockwave are also slowed down for 2 seconds.",
 
     // Hank
+    23000577: "It's Gonna Blow - When Balloon Blast is charged over 80%, Hank gains 10% extra movement speed.",
+    23000578: "Take Cover! - Hank takes 20% less damage when near a wall.",
 
     // Cordelius
+    23000585: "Comboshrooms - Hitting the second mushroom to the same target as the first, deals 30% extra damage.",
+    23000586: "Mushroom Kingdom - Cordelius spawns 3 mushrooms to the Shadow Realm after using his Super, healing allies and damaging enemies for 1440 health on pickup.",
 
     // Doug
+    23000593: "Fast Food - When Doug revives an ally successfully, he will heal for 100% of his maximum health.",
+    23000594: "Self Service - Snack Attack also heals Doug by 480.",
 
     // Pearl
+    23000601: "Heat Retention - Super will consume 50% less Heat when used.",
+    23000602: "Heat Shield - While the Heat is over 80%, reduce damage taken by 20%.",
 
     // Chuck
+    23000609: "Pit Stop - Increase the maximum amount of Posts by 1.",
+    23000610: "Tickets Please! - Dashing through enemies with his Super will also steal 33% of their ammo.",
 
     // Charlie
+    23000623: "Digestive - Cocooned enemies lose 25% of their health while cocooned.",
+    23000624: "Slimy - Cocoon leaves a slimy trail behind it for 5 seconds that slows down enemies walking over it.",
 
     // Mico
+    23000637: "Monkey Business - Every 5 seconds, Mico's basic attack steals ammo from his enemies after hitting them.",
+    23000638: "Record Smash - Mico deals 100% extra damage against non-Brawlers.",
 
     // Kit
+    23000646: "Power Hungry - Kit gains 150% power from each Power Cube.",
+    23000647: "Overly Attached - Kit attaches to friendly Brawlers for 5 seconds longer.",
 
     // Larry & Lawrie
+    23000659: "Protocol: Protect - While Lawrie is in range, transfer 30% incoming damage to himself instead.",
+    23000660: "Protocol: Assist - While Lawrie is in range, reload 30% of your ammo whenever he damages an enemy.",
 
     // Melodie
+    23000667: "Fast Beats - Melodie gains 6% increased movement speed from each note orbiting her.",
+    23000668: "Extended Mix - Melodie's notes last for 25% longer before vanishing.",
 
     // Angelo
+    23000675: "Empower - Staying inside the Super will heal Angelo for 600 per second.",
+    23000676: "Flow - Angelo gains 25% increased movement speed after entering water.",
 
     // Draco
+    23000734: "Expose - Every 5 seconds, the next Lance Stab exposes enemies on hit. Exposed enemies take 35% increased damage for 5 seconds.",
+    23000735: "Shredding - Dragon Solo now also heals for 2750 when activated.",
 
     // Lily
+    23000752: "Spiky - After teleporting to an enemy, Lily's next attack deals 1060 more damage.",
+    23000753: "Vigilance - Gain 15% movement speed while an enemy is in her Super charge radius",
 
     // Berry
 
@@ -311,8 +343,12 @@ export const starPowerDescriptions = {
     // Jae-Yong
 
     // Kaze
+    23000938: "Advanced Techniques - Hitting an enemy in a Strike Spot also slows them by 30% for 2.5 sec. When a marked enemy is defeated, they will deal area damage to other enemies.",
+    23000939: "Gratuity Included - Removes 34% ammo from brawlers initially caught in the Fan Storm. Increases duration of Gadget effects by 50%.",
 
     // Alli
+    23000989: "Lizard Limbs - While enraged Alli regenerates health faster out of combat after only 1.5 seconds.",
+    23000990: "You Better Run, You Better Take Cover - Alli reloads 25% faster while enraged.",
 
     // Trunk
     23000998: "New Insect Overlords - Ants also reduce the damage of enemies by 15%.",
@@ -586,36 +622,68 @@ export const gadgetDescriptions = {
     23000546: "Cookie Crumbs - Mandy's next candy from her Candy Dispenser pierces enemies and the environment.",
 
     // R-T
+    23000555: "Out of Line - Instantly charges R-T's Super.",
+    23000556: "Hacks! - Instantly trigger all active marks on all enemy brawlers, dealing their damage.",
 
     // Willow
+    23000563: "Spellbound - Willow's next Lantern's Curse deals 600 more damage and applies the entire damage instantly rather than over time.",
+    23000564: "Dive - Willow dives for 2 seconds, becoming untargetable but unable to take any action for the duration.",
 
     // Maisie
+    23000571: "Disengage! - Maisie blasts the ground, stunning enemies for 0.5 seconds while dashing forward.",
+    23000572: "Finish Them! - Maisie instantly reloads 1 ammo and increases the next Pressure Rocket damage by 30% of the target's missing HP.",
 
     // Hank
+    23000579: "Water Balloons - The next Balloon Blast also slows down enemies for 3 seconds.",
+    23000580: "Barricade - Hank takes 40% reduced damage for 3 seconds.",
 
     // Cordelius
+    23000587: "Replanting - Cordelius jumps over a piece of terrain quickly.",
+    23000588: "Poison Mushroom - Cordelius' next main attack shoots a poison mushroom that prevents the enemy from attacking for 1.0 seconds.",
 
     // Doug
+    23000595: "Double Sausage - The next Snack Attack only heals allies but doubles the amount.",
+    23000596: "Extra Mustard - The next Snack Attack only damages enemies but doubles the amount.",
 
     // Pearl
+    23000603: "Overcooked - Next basic attack shoots burning cookies, dealing 1040 extra damage over time.",
+    23000604: "Made With Love - Next basic attack shoots perfectly baked cookies ignoring enemies and healing allies for 2800 over time instead.",
 
     // Chuck
+    23000611: "Rerouting - Chuck removes the nearest Post and recharges his Super.",
+    23000612: "Chuck's next Super can go through walls!",
 
     // Charlie
+    23000625: "Spiders - Charlie releases 3 spiders that seek and attack the nearest enemies.",
+    23000626: "Personal Space - Charlie cocoons herself, healing 50% of her total health.",
 
     // Mico
+    23000639: "Clipping Scream - Mico lets out a deafening scream towards the nearest enemy dealing 545 damage and slowing enemies down for 2 seconds on hit.",
+    23000640: "Presto - Mico's next jump has 34% longer range.",
 
     // Kit
+    23000648: "Cardboard Box - Hide in a cardboard box becoming invisible for 3 seconds. Charges the Super 100% faster while stationary.",
+    23000649: "Cheeseburger - Heals himself and the friendly Brawler he is attached to for 30%.",
 
     // Larry & Lawrie
+    23000661: "Order: Swap - Swap weapons with Lawrie.",
+    23000662: "Order: Fall Back - Dash towards Lawrie while Lawrie dashes towards you, healing both for 25% of max health.",
 
     // Melodie
+    23000669: "Perfect Pitch - Melodie's notes get 25% increased movement speed and 60% wider orbit for 5 seconds.",
+    23000670: "Interlude - Melodie gains 10% Shield from each note orbiting her.",
 
     // Angelo
+    23000677: "Stinging Flight - Fly into air for 1.0 seconds. Drains 660 health from nearby enemies on takeoff.",
+    23000678: "Master Fletcher - The next Take Aim pierces enemies and the environment.",
 
     // Draco
+    23000736: "Upper Cut - The next Lance Stab also throws enemies in the air for a short time.",
+    23000737: "Last Stand - Draco can not fall under one health for 2 seconds.",
 
     // Lily
+    23000754: "Vanish - Lily enters the Shadow Realm for 3 seconds.",
+    23000755: "Repot - The next flourish, becomes a thrown attack, and Lily teleports to the destination on impact.",
 
     // Berry
 
@@ -640,8 +708,12 @@ export const gadgetDescriptions = {
     // Jae-Yong
 
     // Kaze
+    23000940: "Gracious Host - Switch to Ninja Aspect and gain 30% Movement Speed for 2.5 sec. Switch to Geisha Aspect and heal for 30% of max health.",
+    23000941: "Hensojutsu - Switch to Ninja Aspect and gain invisibility for 2 sec. Switch to Geisha Aspect and dash forward.",
 
     // Alli
+    23000991: "Feed the Gators - The next main attack heals Alli for 100% of the damage dealt.",
+    23000992: "Cold-Blooded - Alli becomes enraged for the next 4 secs. Can only be activated when an enemy is visible.",
 
     // Trunk
     23001000: "For the Queen! - Trunk instantly spreads ants in a large area.",
