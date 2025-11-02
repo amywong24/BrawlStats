@@ -2,10 +2,15 @@ import React from "react";
 import "./BrawlerDetails.css";
 import data from "../data/brawler.json";
 import { useParams } from "react-router-dom";
+import { starPowerDescriptions, gadgetDescriptions } from "../data/abilitiesInfo";
 
 const BrawlerDetails = () => {
     const { id } = useParams();
     const brawler = data.items.find(b => b.id.toString() === id);
+
+    if (!brawler) {
+        return <div>Brawler not found!</div>;
+    }
 
     return (
         <div className="brawler-details">
@@ -16,6 +21,7 @@ const BrawlerDetails = () => {
                 {brawler.starPowers.map(starPower => (
                     <div key={starPower.id} className="ability">
                         <h3>{starPower.name}</h3>
+                        <p>{starPowerDescriptions[starPower.id]}</p>
                     </div>
                 ))}
             </div>
@@ -25,6 +31,7 @@ const BrawlerDetails = () => {
                 {brawler.gadgets.map(gadget => (
                     <div key={gadget.id} className="ability">
                         <h3>{gadget.name}</h3>
+                        <p>{gadgetDescriptions[gadget.id]}</p>
                     </div>
                 ))}
             </div>

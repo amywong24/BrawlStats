@@ -321,30 +321,52 @@ export const starPowerDescriptions = {
     23000753: "Vigilance - Gain 15% movement speed while an enemy is in her Super charge radius",
 
     // Berry
+    23000764: "Floor is Fine - Berry gains 50% increased reload speed when standing on his own melted ice cream.",
+    23000765: "Making a Mess - Berry's basic attack gains 20% extra damage on impact in areas with no ice cream.",
 
     // Clancy
+    23000772: "Recon - Clancy starts the match with 2 tokens.",
+    23000773: "Pumping Up - Clancy reloads all of his ammo on every enemy takedown.",
 
     // Moe
+    23000804: "Skipping Stones - Moe's basic attacks bounce one more time. The range of the attack remains the same.",
+    23000805: "Speeding Ticket - Moe's Driller has increased travel speed.",
 
     // Kenji
+    23000815: "Studied the Blade - Slashimi's slices have 30% longer range.",
+    23000816: "Nigiri Nemesis - After avoiding damage for 5 seconds, gets 60% damage reduction from the next enemy attack.",
 
     // Shade
+    23000832: "Spooky Speedster - Hitting opponents with the center of Shade's main attack gives a short movement speed.",
+    23000833: "Hardened Hoodie - Shade gets 30% damage reduction while in its Incorporeal Form.",
 
     // Juju
+    23000848: "Guarded Gris-Gris - Gris-Gris is summoned with a protective shield.",
+    23000849: "Numbing Needles - Gris-Gris' attack now also slows the enemy for 1 sec",
 
     // Meeple
+    23000875: "Do Not Pass Go - When you shoot through the environment deal 600 more damage.",
+    23000876: "Rule Bending - Critical Success also increases allies' reload speed within the area by 20%.",
 
     // Ollie
+    23000883: "Kick, Push - While near walls Ollie kicks off his hoverboard and gains 20% extra movement speed.",
+    23000884: "Renegade - After dashing forward with his Super, Ollie gains a 3000 decaying shield over 4 seconds.",
 
     // Lumi
+    23000905: "42% Burnt - The explosions from Lumi's Blast Beat also set the area on fire for 4 secs. Damage scales with explosion damage. \nDamage per second for the biggest explosion: 560",
+    23000906: "Half-time - Lumi slows enemies hit by her recalled morning stars for 1 second.",
 
     // Finx
+    23000915: "Hieroglyph Halt - Finx reduces the reload speed of any enemy Brawlers hit by his main attack by 25% for 3 seconds.",
+    23000916: "Primer - Damage dealt only from Finx's projectiles that are sped up by Time Warp, will increase the Super duration by 0.25 seconds each.",
 
     // Jae-Yong
+    23000929: "The Crowd Goes Mild - Being near teammates gives Jae-yong a 10% speed boost per teammate in range.",
+    23000930: "Extra High Note - Main Attacks now deal an additional 20% Damage per target pierced.",
 
     // Kaze
-    23000938: "Advanced Techniques - Hitting an enemy in a Strike Spot also slows them by 30% for 2.5 sec. When a marked enemy is defeated, they will deal area damage to other enemies.",
-    23000939: "Gratuity Included - Removes 34% ammo from brawlers initially caught in the Fan Storm. Increases duration of Gadget effects by 50%.",
+    23000938: "Advanced Techniques - Hitting an enemy in a Strike Spot also slows them by 30% for 2.5 sec. \nWhen a marked enemy is defeated, they will deal area damage to other enemies.",
+    23000939: "Gratuity Included - Removes 34% ammo from brawlers initially caught in the Fan Storm. \nIncreases duration of Gadget effects by 50%.",
 
     // Alli
     23000989: "Lizard Limbs - While enraged Alli regenerates health faster out of combat after only 1.5 seconds.",
@@ -686,30 +708,52 @@ export const gadgetDescriptions = {
     23000755: "Repot - The next flourish, becomes a thrown attack, and Lily teleports to the destination on impact.",
 
     // Berry
+    23000766: "Friendship is Great - Berry swipes his tail, knocking back enemies and healing nearby allies for 1000 health.",
+    23000767: "Healthy Additives - Berry's next main attack area lasts for 100% longer.",
 
     // Clancy
+    23000774: "Snappy Shooting - Clancy gains double tokens for 5 seconds.",
+    23000775: "Tactical Retreat - Clancy dashes and reloads 1 ammo",
 
     // Moe
+    23000806: "Dodgy Digging - Moe digs up some 'borrowed' goods, increasing his Super charge rate by 50% for 5 seconds.",
+    23000807: "Rat Race - Moe dashes a short distance in his Driller, destroying walls in the process.",
 
     // Kenji
+    23000817: "Dashi Dash - Kenji's basic attack only uses Dash for the next 3 seconds.",
+    23000818: "Hosomaki Healing - Kenji instantly heals 50% of the damage taken over the last 3 seconds.",
 
     // Shade
+    23000834: "Longarms - The next main attack has 50% longer range.",
+    23000835: "Jump Scare - Shade spooks nearby enemies, slowing them for 4 seconds.",
 
     // Juju
+    23000850: "Voodoo Chile - Juju's next attack has the power of all three elements.",
+    23000851: "Elementalist - Juju gains a temporary buff based on the current environment she is standing on! \nGround: Damage reduction \nGrass: Invisibility \nWater: Increased movement speed",
 
     // Meeple
+    23000877: "Mansions of Meeple - Meeple's next attack creates dice towers around the impact area and deal 1000 damage.",
+    23000878: "Ragequit - Meeple lashes out in rage at nearby enemies, stunning and knocking them back. The less hitpoints Meeple has, the stun and knockback effects increase.",
 
     // Ollie
+    23000885: "Regulate - Ollie jumps and does a rad kickflip, hypnotizing all enemies where he lands for 1 seconds.",
+    23000886: "All Eyez on Me - Ollie's next attack will hypnotize enemies hit for 1 seconds.",
 
     // Lumi
+    23000907: "Hit the Lights - Lumi iginites her morning stars on the ground, producing flames which damage nearby enemies for 3.9 seconds. \nDamage per second: 360",
+    23000908: "Grim and Frostbitten - Lumi creates freezing winds around her morning stars on the ground, creating a slippery surface for 3.9 secs.",
 
     // Finx
+    23000917: "Back to the Finxture - Finx steps back in time, returning to the position and ammo he had 3 seconds ago.",
+    23000918: "No Escape - Finx's next center projectile from his main attack freezes the enemy in time for 2 seconds, making them unable to take actions for the duration, but also making them immune to any damage.",
 
     // Jae-Yong
+    23000931: "Weekend Warrior - Deals area damage and increases main attack damage for 5 sec.",
+    23000932: "Time For a Slow Song - Jae-yong slows enemies around him and his attacks will leave trails of slowing paperwork for 5 sec.",
 
     // Kaze
-    23000940: "Gracious Host - Switch to Ninja Aspect and gain 30% Movement Speed for 2.5 sec. Switch to Geisha Aspect and heal for 30% of max health.",
-    23000941: "Hensojutsu - Switch to Ninja Aspect and gain invisibility for 2 sec. Switch to Geisha Aspect and dash forward.",
+    23000940: "Gracious Host - Switch to Ninja Aspect and gain 30% Movement Speed for 2.5 sec. \nSwitch to Geisha Aspect and heal for 30% of max health.",
+    23000941: "Hensojutsu - Switch to Ninja Aspect and gain invisibility for 2 sec. \nSwitch to Geisha Aspect and dash forward.",
 
     // Alli
     23000991: "Feed the Gators - The next main attack heals Alli for 100% of the damage dealt.",
