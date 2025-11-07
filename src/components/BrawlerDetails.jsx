@@ -14,8 +14,10 @@ const BrawlerDetails = () => {
 
     return (
         <div className="brawler-details">
-            <h1>{brawler.name}</h1>
-            <img src={`/brawler/${brawler.id}.png`} alt={brawler.name} />
+            <div className="brawler-header">
+                <img src={`/brawler/${brawler.id}.png`} alt={brawler.name} />
+                <h1>{brawler.name}</h1>
+            </div>
             <div className="star-powers">
                 <h2>Star Powers</h2>
                 {brawler.starPowers.map(starPower => (

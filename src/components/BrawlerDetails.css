@@ -23,3 +23,30 @@
   border-radius: 8px;
   border-left: 4px solid #007bff;
 }
+
+.ability p {
+  color: #2e2e2e;
+  font-size: 1em;
+  line-height: 1.5;
+  margin-top: 5px;
+}
+
+.brawler-header {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.brawler-details img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin: 0;
+}
+
+.brawler-details h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
