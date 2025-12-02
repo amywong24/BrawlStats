@@ -383,6 +383,10 @@ export const starPowerDescriptions = {
     // Ziggy
     23001047: "Thunderstruck - Brawlers damaged by Ziggy's Super are slowed by 20% for 1 sec.",
     23001048: "The Great Ziggini - Hitting with a lightning strike increases the damage of the next main attack by 30%.",
+
+    // Gigi
+    23001068: "Plié Protection - Increases Super charge rate by 30% if no damage has been received for 3 secs.",
+    23001069: "A Helping Hand - SHADOW PUPPET now heals for 2400 after charging up.",
 };
 
 // Gadget descriptions
@@ -770,6 +774,10 @@ export const gadgetDescriptions = {
     // Ziggy
     23001049: "Electric Shuffle - Ziggy hits the nearest enemy with lightning strikes every second for 5 sec. These attacks cost no ammo.",
     23001050: "Now You See Me... - The next lightning strike also teleports Ziggy to the same location.",
+
+    // Gigi
+    23001070: "Longer Strings - Super charging area is bigger.",
+    23001071: "Disappearing Act - Gigi creates an area that makes herself and allies invisible while inside. Lasts 3 seconds.",
 };
 
 // Helper function to get description with fallback

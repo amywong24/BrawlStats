@@ -2303,6 +2303,30 @@
           "name": "NOW YOU SEE ME..."
         }
       ]
+    },
+    {
+      "id": 16000100,
+      "name": "GIGI",
+      "starPowers": [
+        {
+          "id": 23001068,
+          "name": "PLIÉ PROTECTION"
+        },
+        {
+          "id": 23001069,
+          "name": "A HELPING HAND"
+        }
+      ],
+      "gadgets": [
+        {
+          "id": 23001070,
+          "name": "LONGER STRINGS"
+        },
+        {
+          "id": 23001071,
+          "name": "DISAPPEARING ACT"
+        }
+      ]
     }
   ],
   "paging": {
