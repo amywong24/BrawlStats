@@ -2327,6 +2327,30 @@
           "name": "DISAPPEARING ACT"
         }
       ]
+    },
+    {
+      "id": 16000101,
+      "name": "GLOWBERT",
+      "starPowers": [
+        {
+          "id": 23001181,
+          "name": "BIOTIC ECOSYSTEM"
+        },
+        {
+          "id": 23001182,
+          "name": "PARASITISM"
+        }
+      ],
+      "gadgets": [
+        {
+          "id": 23001183,
+          "name": "SLIPPERY SAVIOR"
+        },
+        {
+          "id": 23001184,
+          "name": "MORE LUMENS!"
+        }
+      ]
     }
   ],
   "paging": {

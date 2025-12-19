@@ -387,6 +387,10 @@ export const starPowerDescriptions = {
     // Gigi
     23001068: "Plié Protection - Increases Super charge rate by 30% if no damage has been received for 3 secs.",
     23001069: "A Helping Hand - SHADOW PUPPET now heals for 2400 after charging up.",
+
+    // Glowbert
+    23001181: "Biotic Ecosystem - If Glowbert is tethered to an enemy and teammate at the same time, it will reduce enemy damage by 20% and increase the teammates damage by 20%.",
+    23001182: "Parasitism - Tethering to an enemy also heals Glowbert for 50% of the damage dealt.",
 };
 
 // Gadget descriptions
@@ -778,6 +782,10 @@ export const gadgetDescriptions = {
     // Gigi
     23001070: "Longer Strings - Super charging area is bigger.",
     23001071: "Disappearing Act - Gigi creates an area that makes herself and allies invisible while inside. Lasts 3 seconds.",
+
+    // Glowbert
+    23001183: "Slippery Savior - Glowbert dashes in a target direction, healing himself and teammates on arrival 2500 HP on arrival. Cooldown: 13 seconds.",
+    23001184: "More Lumens! - Glowbert supercharges his glowbeam tethers, doubling damage/healing for 2.5 secs. Cooldown: 17 seconds.",
 };
 
 // Helper function to get description with fallback
