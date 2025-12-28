@@ -2305,6 +2305,30 @@
       ]
     },
     {
+      "id": 16000099,
+      "name": "PIERCE",
+      "starPowers": [
+        {
+          "id": 23001060,
+          "name": "MISSION: SWIMPOSSIBLE"
+        },
+        {
+          "id": 23001061,
+          "name": "SLIP 'N SNIPE"
+        }
+      ],
+      "gadgets": [
+        {
+          "id": 23001062,
+          "name": "BOTTOMLESS MAGS"
+        },
+        {
+          "id": 23001063,
+          "name": "YOU ONLY BRAWL TWICE"
+        }
+      ]
+    },
+    {
       "id": 16000100,
       "name": "GIGI",
       "starPowers": [

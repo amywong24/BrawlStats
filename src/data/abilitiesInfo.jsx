@@ -384,6 +384,10 @@ export const starPowerDescriptions = {
     23001047: "Thunderstruck - Brawlers damaged by Ziggy's Super are slowed by 20% for 1 sec.",
     23001048: "The Great Ziggini - Hitting with a lightning strike increases the damage of the next main attack by 30%.",
 
+    // Pierce
+    23001060: "Mission: Swimpossible - Pierce's last ammo also slows enemies by 30%.",
+    23001061: "Slip 'n Slide - When collecting a shell, Pierce gains a short burst (15%) of movement speed.",
+
     // Gigi
     23001068: "Plié Protection - Increases Super charge rate by 30% if no damage has been received for 3 secs.",
     23001069: "A Helping Hand - SHADOW PUPPET now heals for 2400 after charging up.",
@@ -778,6 +782,10 @@ export const gadgetDescriptions = {
     // Ziggy
     23001049: "Electric Shuffle - Ziggy hits the nearest enemy with lightning strikes every second for 5 sec. These attacks cost no ammo.",
     23001050: "Now You See Me... - The next lightning strike also teleports Ziggy to the same location.",
+
+    // Pierce
+    23001062: "Bottomless Mags - Reload 1 ammo and drop a shell next to Pierce. Cooldown: 13 seconds.",
+    23001063: "You Only Brawl Twice - Pierce will absorb all shells and gain 1200 shield for each one, while also pushing back nearby enemies. Cooldown: 13 seconds.",
 
     // Gigi
     23001070: "Longer Strings - Super charging area is bigger.",
